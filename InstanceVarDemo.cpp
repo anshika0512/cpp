@@ -7,6 +7,7 @@ class Demo
     private://(Optional)
         int x; // x and y are instance Vars
         int y;
+        int z;
 
    public:
     //void setValues(int x,int y)// a and b var are local Var
